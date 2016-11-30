@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Accesibilidad_Raster" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
